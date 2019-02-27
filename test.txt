@@ -1,0 +1,6 @@
+我是git版本管理工具
+我新增了一行字符串
+我他妈的又改了一下
+Git has a mutable index called stage.
+啦啦啦啦啦啦
+我胡汉三又回来啦
